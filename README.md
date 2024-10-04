@@ -3,6 +3,7 @@ Prueba tecnica - Dictionary API
 URL API: https://dictionaryapi.dev 
 
 git clone https://github.com/johnalecc21/dictionary-app.git
+
 cd dictionary-app
 
 npm install
